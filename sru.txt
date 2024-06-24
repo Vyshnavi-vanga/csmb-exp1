@@ -1,0 +1,2 @@
+def college(name):
+    print("Welcome to" + name)
